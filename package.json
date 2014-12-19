@@ -1,0 +1,16 @@
+{
+  "name": "queue",
+  "description": "A simple but formal javascript queue.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["queue"],
+  "author": "Phillip Clark <phillip@flitbit.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/flitbit/queue.git"
+  },
+  "main": "./index.js",
+  "directories": {
+    "examples": "./examples",
+  }
+}
