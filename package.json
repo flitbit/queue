@@ -1,7 +1,7 @@
 {
   "name": "queue",
   "description": "A simple but formal javascript queue.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "keywords": ["queue"],
   "author": "Phillip Clark <phillip@flitbit.com>",
