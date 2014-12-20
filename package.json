@@ -11,6 +11,6 @@
   },
   "main": "./index.js",
   "directories": {
-    "examples": "./examples",
+    "examples": "./examples"
   }
 }
